@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/julekalender/static/css/main.7af516ca.css",
-    "main.js": "/julekalender/static/js/main.fc6b6046.js",
+    "main.css": "/julekalender/static/css/main.8453bf38.css",
+    "main.js": "/julekalender/static/js/main.d3586d2e.js",
     "static/js/453.5fd6966c.chunk.js": "/julekalender/static/js/453.5fd6966c.chunk.js",
+    "static/media/background.png": "/julekalender/static/media/background.b241f536a35afae81193.png",
     "index.html": "/julekalender/index.html",
-    "main.7af516ca.css.map": "/julekalender/static/css/main.7af516ca.css.map",
-    "main.fc6b6046.js.map": "/julekalender/static/js/main.fc6b6046.js.map",
+    "main.8453bf38.css.map": "/julekalender/static/css/main.8453bf38.css.map",
+    "main.d3586d2e.js.map": "/julekalender/static/js/main.d3586d2e.js.map",
     "453.5fd6966c.chunk.js.map": "/julekalender/static/js/453.5fd6966c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7af516ca.css",
-    "static/js/main.fc6b6046.js"
+    "static/css/main.8453bf38.css",
+    "static/js/main.d3586d2e.js"
   ]
 }
